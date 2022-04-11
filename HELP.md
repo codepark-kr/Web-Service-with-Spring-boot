@@ -14,7 +14,7 @@ For further reference, please consider the following sections:
 * [Rest Repositories](https://docs.spring.io/spring-boot/docs/2.6.6/reference/htmlsingle/#howto-use-exposing-spring-data-repositories-rest-endpoint)
 * [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/2.6.6/reference/htmlsingle/#using-boot-devtools)
 * [Spring Configuration Processor](https://docs.spring.io/spring-boot/docs/2.6.6/reference/htmlsingle/#configuration-metadata-annotation-processor)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.6.6/reference/htmlsingle/#boot-features-developing-web-applications)
+* [Spring Web](https://docs.spring.io/spring-boot/docs/2.6.6/reference/htmlsingle/#boot-features-developing-com.codepark.webservice.web-applications)
 * [Spring Security](https://docs.spring.io/spring-boot/docs/2.6.6/reference/htmlsingle/#boot-features-security)
 
 ### Guides
@@ -22,14 +22,14 @@ For further reference, please consider the following sections:
 The following guides illustrate how to use some features concretely:
 
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
-* [Producing a SOAP web service](https://spring.io/guides/gs/producing-web-service/)
+* [Producing a SOAP com.codepark.webservice.web service](https://spring.io/guides/gs/producing-com.codepark.webservice.web-service/)
 * [Accessing JPA Data with REST](https://spring.io/guides/gs/accessing-data-rest/)
 * [Accessing Neo4j Data with REST](https://spring.io/guides/gs/accessing-neo4j-data-rest/)
 * [Accessing MongoDB Data with REST](https://spring.io/guides/gs/accessing-mongodb-data-rest/)
 * [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-com.codepark.webservice.web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
-* [Securing a Web Application](https://spring.io/guides/gs/securing-web/)
+* [Securing a Web Application](https://spring.io/guides/gs/securing-com.codepark.webservice.web/)
 * [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
 * [Authenticating a User with LDAP](https://spring.io/guides/gs/authenticating-ldap/)
 
