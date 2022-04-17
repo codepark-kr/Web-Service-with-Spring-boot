@@ -1,5 +1,6 @@
 package com.codepark.webservice.web;
 
+import com.codepark.webservice.web.dto.HelloResponseDto;
 import org.junit.Test;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
