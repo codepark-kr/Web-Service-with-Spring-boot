@@ -25,4 +25,13 @@ public class IndexControllerTest {
         // then
         assertThat(body).contains("Spring Boot Web Service");
     }
+
+    @Test
+    public void load_postsSave() {
+        // when
+        String body = this.restTemplate.getForObject("/posts/save", String.class);
+
+        // then
+        assertThat(body).contains("Write a post");
+    }
 }
